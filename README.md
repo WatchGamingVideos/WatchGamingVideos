@@ -6,3 +6,7 @@
 - 📫 You can reach me here or on Discord @nvd123YT
 - 😄 Pronouns: He/Him/Male
 - ⚡ Fun fact: I'm 13 and love sports. I'd love to work on a sports app/game
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=watchgamingvideos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
